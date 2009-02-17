@@ -34,7 +34,7 @@ BuildArch:      noarch
 BuildRequires:  mingw32-filesystem >= 29
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
-BuildRequires:  mingw32-termcap >= 1.3.1-3
+BuildRequires:  mingw32-termcap >= 1.3.1
 
 
 %description
