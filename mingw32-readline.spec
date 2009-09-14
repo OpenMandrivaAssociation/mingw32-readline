@@ -6,7 +6,7 @@
 
 Name:           mingw32-readline
 Version:        5.2
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        MinGW port of readline for editing typed command lines
 
 License:        GPLv2+
