@@ -6,7 +6,7 @@
 
 Name:           mingw32-readline
 Version:        5.2
-Release:        %mkrel 2
+Release:        %mkrel 1
 Summary:        MinGW port of readline for editing typed command lines
 
 License:        GPLv2+
@@ -117,3 +117,12 @@ rm -rf $RPM_BUILD_ROOT
 %{_mingw32_libdir}/libreadline.dll.a
 %{_mingw32_libdir}/libhistory.dll.a
 %{_mingw32_includedir}/readline/
+
+
+%changelog
+* Tue Feb 17 2009 Jérôme Soyer <saispo@mandriva.org> 5.2-1mdv2009.1
++ Revision: 341621
+- Fix Requiers
+- import mingw32-readline
+
+
