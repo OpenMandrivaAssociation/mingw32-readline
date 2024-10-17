@@ -11,7 +11,7 @@ Summary:        MinGW port of readline for editing typed command lines
 
 License:        GPLv2+
 Group:          Development/Other
-URL:            http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
+URL:            https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
 Source0:        ftp://ftp.gnu.org/gnu/readline/readline-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
