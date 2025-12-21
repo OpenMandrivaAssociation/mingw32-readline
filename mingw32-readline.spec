@@ -31,6 +31,7 @@ Patch13:        readline-5.2-redisplay-sigint.patch
 
 BuildArch:      noarch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem >= 29
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
